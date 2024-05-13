@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 60px;
+    background-color: #145555;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.outercontainer{
+    height: 650px;
+    margin-top: 70px;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    height: 600px;
+    width: 400px;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url(pexels-francesco-ungaro-1526713.jpg);
+    background-size: cover;
+    color: aliceblue; */
+}
